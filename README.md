@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Ignacio Di Vito 🚀
 
-<!--
-**juancis82/Juancis82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista en Sistemas** | **Técnico Sup. en Telecomunicaciones** | Estudiante de la **Licenciatura en IT**
 
-Here are some ideas to get you started:
+Soy un profesional apasionado por la tecnología con un sólido recorrido en ingeniería de soluciones, diseño de infraestructura cloud y gestión de calidad en el sector de telecomunicaciones. Actualmente expando mis competencias estratégicas cursando la Licenciatura en IT para conectar la gestión de proyectos de alto nivel con arquitecturas técnicas robustas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Áreas de Especialización y Foco Actual
+
+*   **Cloud Architecture & Infra:** Experiencia conceptual y práctica con entornos híbridos/privados, GCP, Azure, AWS y plataformas Huawei.
+*   **Software & Paradigmas:** Consolidando desarrollo moderno en **Python** y **JavaScript**, con bases previas en Java, .NET y desarrollo sobre entornos Linux/SQL.
+*   **Metodologías & Gestión:** Frameworks ágiles aplicados a proyectos (Scrum, Kanban, Lean y Project Management).
+*   **Cybersecurity & IoT:** Formación activa en seguridad ágil (Fortinet NSE1) y automatización/IoT.
+
+---
+
+### 🛠️ Tecnologías y Certificaciones Principales
+
+<p align="left">
+  <img src="https://shields.io" alt="Cloud" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Agile" />
+</p>
+---
+
+### 📈 Objetivos en este espacio
+- 💻 Documentar y disponibilizar arquitecturas e integraciones de mis estudios en la Licenciatura en IT.
+- 🚀 Desarrollar laboratorios prácticos orientados a automatización de infraestructura y scripts avanzados.
+
+---
+📫 **Contacto profesional:** [jdivito@teco.com.ar](mailto:jdivito@personal.com.ar)
+
