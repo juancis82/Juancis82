@@ -27,6 +27,7 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 | 💻 **Desarrollo**      | Python, JavaScript, Unity (C#), Lua — backend y juegos                           |
 | 🌐 **Networking**      | SD-WAN, MPLS, BGP, QoS, VPN — Wireshark, Nmap, GNS3, Cisco PT, Meraki          |
 | 🔄 **Gestión**         | Scrum, Kanban, Project Management — propuestas técnicas                           |
+| 🏠 **IoT & Domótica**   | Automatización del hogar con Arduino — sensores, actuadores y control remoto     |
 
 ---
 
@@ -53,6 +54,10 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
+### IoT & Embebidos
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
 ---
 
 ## 🚀 Proyectos Destacados
@@ -62,6 +67,8 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 | 🔍 **IzenScan** | Escáner de vulnerabilidades web automatizado | Python |
 | 🎮 **Idle RPG Mobile** | Juego idle RPG con backend en la nube | Unity, C#, Supabase |
 | ⚔️ **RPG Roblox** | RPG estilo MU Online con sistema de clases y skills | Lua, Roblox Studio |
+| 🍽️ **Carta Digital** | SaaS carta y pedidos por QR para restaurantes | Next.js, Supabase |
+| 🌐 **Netobserva** | SaaS gestión de flotas de red y observabilidad QoS | Go, Next.js, PostgreSQL |
 
 ---
 
