@@ -20,13 +20,13 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 
 ## 🎯 Áreas de Especialización
 
-| Área | Foco |
-|------|------|
-| ☁️ **Cloud & Infra** | Entornos híbridos/privados — GCP, Azure, AWS, Huawei Cloud |
-| 🛡️ **Ciberseguridad** | Pentest, defensa perimetral, endpoints, análisis de vulnerabilidades (Nmap, Nessus), OWASP, NIST, Fortinet NSE |
-| 💻 **Desarrollo** | Python, JavaScript, Unity (C#), Lua — backend y juegos |
-| 🌐 **Networking** | SD-WAN, MPLS, BGP, QoS, VPN — Wireshark, Nmap, GNS3, Cisco Packet Tracer, Meraki Dashboard |
-| 🔄 **Gestión** | Scrum, Kanban, Project Management, propuestas técnicas |
+| Área                   | Foco                                                                             |
+|------------------------|----------------------------------------------------------------------------------|
+| ☁️ **Cloud & Infra**  | GCP, Azure, AWS, Huawei Cloud — entornos híbridos y privados                    |
+| 🛡️ **Ciberseguridad** | Consultoría: pentest, defensa perimetral, endpoints — OWASP, NIST, Fortinet NSE |
+| 💻 **Desarrollo**      | Python, JavaScript, Unity (C#), Lua — backend y juegos                           |
+| 🌐 **Networking**      | SD-WAN, MPLS, BGP, QoS, VPN — Wireshark, Nmap, GNS3, Cisco PT, Meraki          |
+| 🔄 **Gestión**         | Scrum, Kanban, Project Management — propuestas técnicas                           |
 
 ---
 
