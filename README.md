@@ -14,7 +14,7 @@
 
 Apasionado por la tecnología con un sólido recorrido en **ingeniería de soluciones, diseño de infraestructura cloud y gestión técnica** en el sector de telecomunicaciones. Actualmente como **Ingeniero de Soluciones Grandes Clientes**, trabajo con empresas del sector privado en soluciones end-to-end de **SD-WAN, ciberseguridad gestionada, cloud híbrida y valor agregado**.
 
-Cursando la **Licenciatura en Gestión de Recursos Tecnológicos (UGD)**, combinando la visión estratégica con desarrollo de software y automatización.
+Egresado como **Analista en Sistemas** y **Técnico Superior en Sistemas de Telecomunicaciones**. Actualmente cursando la **Licenciatura en Gestión de Recursos Tecnológicos (UGD)** — combinando formación técnica sólida con visión estratégica en desarrollo y automatización.
 
 ---
 
@@ -112,4 +112,4 @@ Cursando la **Licenciatura en Gestión de Recursos Tecnológicos (UGD)**, combin
 
 <div align="center">
 <i>💡 "Connecting business needs with technical solutions"</i>
-</div>
+<�div>
