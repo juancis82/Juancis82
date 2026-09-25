@@ -26,6 +26,7 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 | 💻 **Desarrollo** | Python, JavaScript, Unity (C#), Lua — backend y juegos |
 | 🛡️ **Ciberseguridad** | Fortinet NSE1, escaneo de vulnerabilidades, seguridad ágil |
 | 🔄 **Gestión** | Scrum, Kanban, Project Management, propuestas técnicas |
+| 🌐 **Networking** | SD-WAN, MPLS, BGP, QoS, VPN — diseño y gestión de redes WAN |
 
 ---
 
