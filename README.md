@@ -23,9 +23,9 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 | Área | Foco |
 |------|------|
 | ☁️ **Cloud & Infra** | Entornos híbridos/privados — GCP, Azure, AWS, Huawei Cloud |
-| 🛡️ **Ciberseguridad** | Pentest, defensa perimetral, protección de endpoints, análisis de vulnerabilidades, Fortinet NSE |
-| 💻 **Desarrollo** | Python, JavaScript, Unity (C#), Lua — backend y juegos |h
-| 🌐 **Networking** | SD-WAN, MPLS, BGP, QoS, VPN — diseño y gestión de redes WAN |
+| 🛡️ **Ciberseguridad** | Pentest, defensa perimetral, endpoints, análisis de vulnerabilidades (Nmap, Nessus), OWASP, NIST, Fortinet NSE |
+| 💻 **Desarrollo** | Python, JavaScript, Unity (C#), Lua — backend y juegos |
+| 🌐 **Networking** | SD-WAN, MPLS, BGP, QoS, VPN — Wireshark, Nmap, GNS3, Cisco Packet Tracer, Meraki Dashboard |
 | 🔄 **Gestión** | Scrum, Kanban, Project Management, propuestas técnicas |
 
 ---
