@@ -23,10 +23,10 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 | Área | Foco |
 |------|------|
 | ☁️ **Cloud & Infra** | Entornos híbridos/privados — GCP, Azure, AWS, Huawei Cloud |
-| 💻 **Desarrollo** | Python, JavaScript, Unity (C#), Lua — backend y juegos |
 | 🛡️ **Ciberseguridad** | Fortinet NSE1, escaneo de vulnerabilidades, seguridad ágil |
-| 🔄 **Gestión** | Scrum, Kanban, Project Management, propuestas técnicas |
+| 💻 **Desarrollo** | Python, JavaScript, Unity (C#), Lua — backend y juegos |h
 | 🌐 **Networking** | SD-WAN, MPLS, BGP, QoS, VPN — diseño y gestión de redes WAN |
+| 🔄 **Gestión** | Scrum, Kanban, Project Management, propuestas técnicas |
 
 ---
 
