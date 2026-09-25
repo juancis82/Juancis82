@@ -75,20 +75,11 @@ Actualmente expandiendo mis habilidades cursando la **Licenciatura en Gestión d
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juancis82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juancis82&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juancis82&theme=tokyonight&hide_border=true" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juancis82&theme=tokyonight&hide_border=true" width="500"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>💡 "Connecting business needs with technical solutions"</i>
+<i>💡 "Connecting business needs with technical solutions"</i>
 </div>
----
-
-
